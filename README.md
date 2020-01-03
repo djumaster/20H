@@ -1,11 +1,11 @@
-# Hiver 2019
+# Hiver 2020
 
 # Calendrier GINF
-![alt tag](./GINF.png)
+![image](GINF.png)
 
 
 # Calendrier GINQ
-![alt tag](./GINQ.png)
+![image](GINQ.png)
 
 
 ## ÉTAPE 2

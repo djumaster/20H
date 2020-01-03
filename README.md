@@ -23,6 +23,8 @@
 
 |     Code	                                                     | Titre du cours                               |Commentaires|
 |:---------------------------------------------------------------|:----------------------------------------------|:----------|
+| INF1075                                                        | Technologie réseautiques avancés              |           |
+| INF1076                                                        | Sécurité des réseaux                          |           |
 | [INF1086](https://github.com/CollegeBoreal/INF1086-202-20H-02) | Administration de bases de données            |           |
 | [INF1087](https://github.com/CollegeBoreal/INF1087-202-20H-02) | Administration d'infrastructure informatique 1|           |
 

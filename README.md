@@ -27,6 +27,9 @@
 | INF1076                                                        | Sécurité des réseaux                          |           |
 | [INF1086](https://github.com/CollegeBoreal/INF1086-202-20H-02) | Administration de bases de données            |           |
 | [INF1087](https://github.com/CollegeBoreal/INF1087-202-20H-02) | Administration d'infrastructure informatique 1|           |
+| INF1088                                                        | Gestion de projets informatiques              |           |
+| [INF1089](https://github.com/CollegeBoreal/INF1089-202-20H-02) | Programmation de systèmes                     |           |
+| INF1090                                                        | Gestion des communications en informatique    |           |
 
 
 

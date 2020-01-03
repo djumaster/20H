@@ -12,15 +12,19 @@
 
 |     Code	                                                     | Titre du cours                              | Commentaires|
 |:---------------------------------------------------------------|:--------------------------------------------|:------------|
+| INF1011                                                        | Professional Communication in English       |             |
 | INF1021                                                        | Protocoles et concepts de routage           |             |
 | INF1041                                                        | Introduction à l'administration des systèmes|             |
 | [INF1042](https://github.com/CollegeBoreal/INF1042-202-20H-02) | Introduction à la programmation             |             |
+| INF1043                                                        | Introduction aux bases de données           |             |
+| INF1082                                                        | Appui et service technique                  |             |
 
 ## ÉTAPE 4
 
-|     Code	                                                     | Titre du cours                              | Commentaires|
-|:---------------------------------------------------------------|:--------------------------------------------|:------------|
-| [INF1069](https://github.com/CollegeBoreal/INF1069-202-19H-02) | Design de bases de données                  |             |
+|     Code	                                                     | Titre du cours                               |Commentaires|
+|:---------------------------------------------------------------|:----------------------------------------------|:----------|
+| [INF1086](https://github.com/CollegeBoreal/INF1086-202-20H-02) | Administration de bases de données            |           |
+| [INF1087](https://github.com/CollegeBoreal/INF1087-202-20H-02) | Administration d'infrastructure informatique 1|           |
 
 
 

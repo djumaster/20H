@@ -1,6 +1,6 @@
 # Hiver 2020
 
-### :warning: `(*)` Dénote un changement de salle
+###### :warning: `(*)` Dénote un changement de salle
 
 # Calendrier GINF
 ![image](GINF.png)

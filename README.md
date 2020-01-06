@@ -17,7 +17,7 @@
 | INF1011                                                        | Professional Communication in English       |             |
 | INF1021                                                        | Protocoles et concepts de routage           |             |
 | INF1041                                                        | Introduction à l'administration des systèmes|             |
-| [INF1042](https://github.com/CollegeBoreal/INF1042-200-20H-02) | Introduction à la programmation             |             |
+| [INF1042](https://github.com/CollegeBoreal/INF1042-202-20H-02) | Introduction à la programmation             |             |
 | INF1043                                                        | Introduction aux bases de données           |             |
 | INF1082                                                        | Appui et service technique                  |             |
 

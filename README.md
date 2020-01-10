@@ -2,9 +2,6 @@
 
 [Calendrier Hiver 2020](http://www.collegeboreal.ca/wp-content/uploads/2019/02/Calendrier-coll%C3%A9gial-FINAL-HIVER-2020-r%C3%A9v-1.pdf)
 
-
-###### :warning: `(*)` Dénote un changement de salle
-
 # Calendrier GINF
 ![image](GINF.png)
 

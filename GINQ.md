@@ -7,6 +7,14 @@
 | :heavy_check_mark: | Accessible           |
 | :x:                | Manquant             |
 
+| :dollar:           | Signification        |
+|--------------------|----------------------|
+| :zero:             | Plus de credit       |
+| :heavy_plus_sign:              | Avec du credit       |
+| :heavy_minus_sign:              | Avec du credit       |
+
+
+
 ## Résultat
 
 |:hash:| Boréal :id:| VPN                | Azure  $50 et plus   |

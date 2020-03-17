@@ -18,7 +18,7 @@
 
 ## Résultat
 
-|:hash:| Boréal :id:| VPN                | Azure  $50 et plus   |
+|:hash:| Boréal :id:| VPN                | Azure :dollar:       |
 |------|------------|--------------------|----------------------|
 |  1   | 300104524  |[:heavy_check_mark:]| [:x:]                |
 |  2   | 300104541  |[:heavy_check_mark:]| [:x:]                |

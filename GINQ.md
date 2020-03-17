@@ -2,16 +2,17 @@
 
 ## Légende
 
-| Signe              | Signification        |
-|--------------------|----------------------|
-| :heavy_check_mark: | Accessible           |
-| :x:                | Manquant             |
+| Signe              | Signification          |
+|--------------------|------------------------|
+| :heavy_check_mark: | Accessible             |
+| :x:                | Manquant               |
 
-| :dollar:           | Signification        |
-|--------------------|----------------------|
-| :zero:             | Plus de credit       |
-| :heavy_plus_sign:              | Avec du credit       |
-| :heavy_minus_sign:              | Avec du credit       |
+| :dollar:           | Signification          |
+|--------------------|------------------------|
+| :zero:             | Plus du tout de crédit |
+| :heavy_plus_sign:  | Moins de $50 de crédit |
+| :heavy_minus_sign: | Plus de $50 de crédit |
+| :100:              | Tout le crédit |
 
 
 

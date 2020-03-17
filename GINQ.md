@@ -2,10 +2,10 @@
 
 ## Légende
 
-| Signe              | Signification                 |
-|--------------------|-------------------------------|
-| :heavy_check_mark: | Prêt à être corrigé           |
-| :x:                | Projet inexistant             |
+| Signe              | Signification        |
+|--------------------|----------------------|
+| :heavy_check_mark: | Accessible           |
+| :x:                | Manquant             |
 
 ## Résultat
 
